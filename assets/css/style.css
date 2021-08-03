@@ -1,0 +1,17 @@
+body {
+    padding-top: 60px;
+}
+
+h3 > span {
+    color: #C59D5F;
+}
+
+.ordernow {
+    background-color: #FA7269;
+    color: #fff;
+    border: #fff;
+}
+
+.blue {
+    color: #30A4EE;
+}
