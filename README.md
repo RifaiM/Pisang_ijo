@@ -1,5 +1,5 @@
 # Pisang_ijo
- for Ummi AL
+ for Ummi ALcd
 
 # Sub header
  trying to work with git
