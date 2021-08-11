@@ -6,4 +6,5 @@ trying to work with git
 
 ### Local development
 
-Open index.html
+https://rifaim.github.io/Pisang_ijo
+
