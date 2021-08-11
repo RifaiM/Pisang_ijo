@@ -3,3 +3,7 @@ for Ummi AL
 
 ## Sub header
 trying to work with git
+
+### Local development
+
+Open index.html
