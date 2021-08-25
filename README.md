@@ -1,5 +1,10 @@
 # Pisang_ijo
- for Ummi ALcd
+for Ummi AL
 
-# Sub header
- trying to work with git
+## Sub header
+trying to work with git
+
+### Local development
+
+https://rifaim.github.io/Pisang_ijo
+
